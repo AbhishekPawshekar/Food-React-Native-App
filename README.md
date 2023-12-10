@@ -20,7 +20,7 @@ Home Page            |  Categories
 :-------------------------:|:-------------------------:
 ![1](https://github.com/AbhishekPawshekar/Food-React-Native-App/assets/89447125/4ad6aa03-ac7d-46b0-ab67-79a21576383b) | ![2](https://github.com/AbhishekPawshekar/Food-React-Native-App/assets/89447125/376fc15d-b4d3-4c12-9b55-9a6c8a3f0851)
 
-Categories wise food            |  
+Categories wise food            |  Categories wise food 
 :-------------------------:|:-------------------------:
 ![3](https://github.com/AbhishekPawshekar/Food-React-Native-App/assets/89447125/68fe51d8-615d-489a-ac45-36efd94e9c43) | ![6](https://github.com/AbhishekPawshekar/Food-React-Native-App/assets/89447125/b63c43ca-5db2-4da1-b049-f7dce49ece4f)
 
