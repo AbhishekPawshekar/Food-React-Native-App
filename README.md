@@ -1,5 +1,4 @@
 # Food-React-Native-App
-Certainly! Here's a rephrased version:
 
 Presenting an application developed in React Native, dedicated to showcasing food details. This app retrieves all food-related information through the themealdb API.
 
